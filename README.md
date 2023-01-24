@@ -33,6 +33,4 @@ _<h3 align="left">Holopin Badge Board</h3>_
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=buddhimac111&theme=nord)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=buddhimac111&theme=nord)
-
 ![GitHub metrics](https://metrics.lecoq.io/buddhimac111)
