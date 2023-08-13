@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Buddhima Charitha Wijesooriya</h1>
 
+[![Spotify](https://novatorem-lkxddxzgr-buddhimac111.vercel.app/api/spotify)](https://open.spotify.com/user/31g6nidigzrhnxgkqf5xx34pbz2m)
+
 ## Software Engineering Undergraduate | Web & Mobile Development Enthusiast
 
 ***|| Bsc (hons) Software Engineering Plymouth University 👨🏻‍💻 || Plymouth - United Kingdom || NSBM***
