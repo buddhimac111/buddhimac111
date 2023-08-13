@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Buddhima Charitha Wijesooriya</h1>
 
-[![Spotify](https://novatorem-lkxddxzgr-buddhimac111.vercel.app/api/spotify)](https://open.spotify.com/user/31g6nidigzrhnxgkqf5xx34pbz2m)
+<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
 ## Software Engineering Undergraduate | Web & Mobile Development Enthusiast
 
