@@ -1,6 +1,6 @@
 <div style="background-color: #333333; border-radius: 25px">
 
-<p style="padding-left:80px;text-align:center; padding-top:40px;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=26&duration=3000&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Buddhima;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=056AFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Buddhima;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 <div style="padding-left:50px;padding-right:50px;text-align:center;">
 
@@ -102,15 +102,17 @@
 
 <p style="font-size:24px;font-weight:bold;margin-top:20px;">⚡ Stats</p>
 
-<div style="display:inline;">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=buddhimac111&show_icons=true&theme=holi" alt="stats" style="width:500px;">
     <img src="https://streak-stats.demolab.com/?user=buddhimac111&theme=holi-theme" alt="streak" style="width:500px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhimac111&layout=donut&theme=holi&langs_count=5" alt="languages" style="width:500px;">
 </div>
 
-<div style="padding-bottom:30px;">
-
+</br>
 <p style="font-size:24px;font-weight:bold;margin-top:20px;">📊 Metrics</p>
+
+<div style="padding-bottom:30px;">
+  
 <img src="https://metrics.lecoq.io/buddhimac111" alt="metrics"> 
 
 </div>
