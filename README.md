@@ -1,40 +1,116 @@
-<h1 align="center">Hi there 👋, I'm Buddhima Charitha Wijesooriya</h1>
+<div style="background-color: #333333; border-radius: 25px">
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31g6nidigzrhnxgkqf5xx34pbz2m)
+<p style="padding-left:80px;text-align:center; padding-top:40px;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=26&duration=3000&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Buddhima;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a></p>
+
+<div style="padding-left:50px;padding-right:50px;text-align:center;">
+
+![Header](./headerIMG.png)
+
 </div>
 
-## Software Engineering Undergraduate | Web & Mobile Development Enthusiast
+<!-- &nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31g6nidigzrhnxgkqf5xx34pbz2m)
+</div> -->
+<div style="text-align:center;">
 
-***|| Bsc (hons) Software Engineering Plymouth University 👨🏻‍💻 || Plymouth - United Kingdom || NSBM***
+### BSc (Hons) Software Engineering (UG) 👨🏼‍🎓 || Plymouth University - UK || NSBM Green University
 
-_Skills_: **C, C#, Python, HTML, CSS, JavaScript, PHP, Java, MySQL, MERN Stack**
+<div style="display:inline;">
+  <a href="https://www.linkedin.com/in/buddhima-wijesooriya-77a031212/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  &emsp;
+  <a href="https://www.instagram.com/buddhima_c_w/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta">
+  </a>
+&emsp;
+  <a href="https://web.facebook.com/profile.php?id=100075888475024">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook">
+  </a>
+  &emsp;
+  <a href="https://twitter.com/BuddhimaCW">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
+  </a> 
+</div>
 
-- 🌱 I’m currently learning **Mobile Developing, Artificial intelligence and Machine learning **
-  <br>
+</div>
 
-_<h3 align="left">Languages and Tools</h3>_
+<hr style="margin-top:15px;"/>
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> </a>
-  </p>
+<div style="margin-left:5%; margin-right:5%;">
 
-_<h3 align="left">Connect with me</h3>_
+<h3 >⚙ Languages</h3>
 
-<p align="left">
+<div style="display:inline;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js">&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="ts">&nbsp;
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">&nbsp;
+    <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="dart">&nbsp;
+    <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="php">&nbsp;
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python">&nbsp;
+    <img src="https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=for-the-badge&logo=C-Sharp&logoColor=white" alt="c#">&nbsp;
+    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" alt="c">&nbsp;
+    <img src="https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white" alt="yaml">&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html">&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css">&nbsp;
+</div>
 
-<a href="https://dev.to/buddhimac111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="buddhimac111" height="30" width="40" /></a>
-<a href="https://twitter.com/BuddhimaCW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BuddhimaCW" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/buddhima-wijesooriya-77a031212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buddhima-wijesooriya-77a031212" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100075888475024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Buddhima Wijesooriya" height="30" width="40" /></a>
-<a href="https://instagram.com/_d_h_a_n_u_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_d_h_a_n_u_23" height="30" width="40" /></a>
-</p>
+<h3 >📚 Libraries & Frameworks </h3>
 
-_<h3 align="left">Holopin Badge Board</h3>_
+<div style="display:inline;">
+    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="spring">&nbsp;
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react">&nbsp;
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next">
+    <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="express">&nbsp;
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter">&nbsp;
+    <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".net">&nbsp;
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap">&nbsp;
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="tailwind">&nbsp;
+</div>
+
+<h3 >📁 Databases </h3>
+
+<div style="display:inline;">
+     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongo">&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql">&nbsp;
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="firebase">&nbsp;
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="mssql">&nbsp;
+
+</div>
+
+<h3 >🛠 Tools </h3>
+
+<div style="display:inline;">
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node">&nbsp;
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="spring-boot">&nbsp;
+    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="postman">&nbsp;
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" alt="idea">&nbsp;
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vscode">&nbsp;
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" alt="android">&nbsp;
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="vs">&nbsp;
+</div>
+
+</div>
+
+<hr style="margin-top:20px;"/>
+
+<div style="margin-left:5%; margin-right:5%;">
+
+<p style="font-size:24px;font-weight:bold;margin-top:20px;">📛 Holopin Board</p>
 
 [![@buddhimac111's Holopin board](https://holopin.me/blacksmith)](https://www.holopin.io/@blacksmith)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buddhimac111&show_icons=true&theme=nord)
+<p style="font-size:24px;font-weight:bold;margin-top:20px;">⚡ Stats</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=buddhimac111&theme=nord)
+<div style="display:inline;">
+    <img src="https://github-readme-stats.vercel.app/api?username=buddhimac111&show_icons=true&theme=holi" alt="stats" style="width:500px;">
+    <img src="https://streak-stats.demolab.com/?user=buddhimac111&theme=holi-theme" alt="streak" style="width:500px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhimac111&layout=donut&theme=holi&langs_count=5" alt="languages" style="width:500px;">
+</div>
 
-![GitHub metrics](https://metrics.lecoq.io/buddhimac111)
+<div style="padding-bottom:30px;">
+
+<p style="font-size:24px;font-weight:bold;margin-top:20px;">📊 Metrics</p>
+<img src="https://metrics.lecoq.io/buddhimac111" alt="metrics"> 
+
+</div>
